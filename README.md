@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋, I'm Dawn_whisper
 
-<!--
-**dawnwhisper/dawnwhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 💻 A ctfer
+    - Working in [W&M](http://wm-team.cn/)
+    - ID: Dawn_whisper
+    - Main direction: Crypto Misc
+    - Learning direction: Web Blockchain
+    - United in [StrawHat](https://strawhat.team/)
+- 📚 A student
+    - undergraduate at Nanjing University of Aeronautics and Astronautics
+- 🛠️ A coder
+    - ~~Automatic bug writing machine~~
+- 📫 Reach me
+    - [blog](dawn_whisper.hack.best)
+    - [E-mail](mailto:dawn_whisper@nuaa.edu.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnwhisper&show_icons=true&theme=radical)
