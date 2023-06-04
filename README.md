@@ -9,11 +9,12 @@
     - Learning direction: Web Blockchain
     - United in [StrawHat](https://strawhat.team/)
 - 📚 A student
-    - undergraduate at Nanjing University of Aeronautics and Astronautics
+    - Undergraduate at Nanjing University of Aeronautics and Astronautics
 - 🛠️ A coder
     - ~~Automatic bug writing machine~~
 - 📫 Reach me
-    - [blog](dawn_whisper.hack.best)
+    - [Blog](https://dawn_whisper.hack.best)
     - [E-mail](mailto:dawn_whisper@nuaa.edu.cn)
+    - ~~[Bilibili](https://space.bilibili.com/179833081)~~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnwhisper&show_icons=true&theme=radical)
