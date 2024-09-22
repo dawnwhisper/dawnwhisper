@@ -13,7 +13,7 @@
 - 🛠️ A coder
     - ~~Automatic bug writing machine~~
 - 📫 Reach me
-    - [Blog](https://dawn_whisper.hack.best)
+    - [Blog](https://dawn_whisper.top)
     - [E-mail](mailto:dawn_whisper@nuaa.edu.cn)
     - ~~[Bilibili](https://space.bilibili.com/179833081)~~
 - Others
