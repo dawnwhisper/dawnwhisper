@@ -3,13 +3,14 @@
 ## About me
 
 - 💻 A ctfer
-    - Working in [W&M](http://wm-team.cn/)
+    - Captain of [W&M](http://wm-team.cn/)
     - ID: Dawn_whisper
     - Main direction: Crypto Misc
     - Learning direction: Web Blockchain
     - United in [StrawHat](https://strawhat.team/)
 - 📚 A student
     - Undergraduate at Nanjing University of Aeronautics and Astronautics
+    - Master at Nanjing University of Aeronautics and Astronautics
 - 🛠️ A coder
     - ~~Automatic bug writing machine~~
 - 📫 Reach me
