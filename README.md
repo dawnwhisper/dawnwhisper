@@ -24,4 +24,6 @@
 
 Desiring for your stars🥰
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnwhisper&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnwhisper&show_icons=true&theme=radical)
+
+![Top Language](https://github-readme-stats-pi-ten-18.vercel.app/api/top-langs/?username=dawnwhisper&show_icons=true&theme=radical)
